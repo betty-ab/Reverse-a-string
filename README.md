@@ -6,9 +6,9 @@ Description: A simple utility that takes a string input from the user and flips 
 
 Logic: Uses Python's "slicing" method [::-1] which is the most efficient way to reverse a sequence in Python.
 
-Key Learning: String indexing and slicing.
- Level 2: Fibonacci SequenceDescription: A program that generates the Fibonacci sequence up to a user-defined number of terms.Logic: Uses a while loop to iteratively add the two preceding numbers ($n_1 + n_2$) to create the next number in the series. It includes error handling to ensure the user enters a positive integer.
- Level 3: Tic-Tac-Toe (CLI-based)
+Level 2: Fibonacci SequenceDescription: A program that generates the Fibonacci sequence up to a user-defined number of terms.Logic: Uses a while loop to iteratively add the two preceding numbers ($n_1 + n_2$) to create the next number in the series. It includes error handling to ensure the user enters a positive integer.
+
+Level 3: Tic-Tac-Toe (CLI-based)
 Description: A Command Line Interface (CLI) version of the classic Tic-Tac-Toe game for two players (X and O).
 
 Logic: * The board is stored as a list of 9 elements.
