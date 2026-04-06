@@ -4,7 +4,7 @@ This repository contains my solutions for three Python programming challenges, r
 Level 1: Reverse a String
 Description: A simple utility that takes a string input from the user and flips it backward.
 
-: Uses Python's "slicing" method [::-1] which is the most efficient way to reverse a sequence in Python.
+Uses Python's "slicing" method [::-1] which is the most efficient way to reverse a sequence in Python.
 
 Level 2: Fibonacci SequenceDescription: A program that generates the Fibonacci sequence up to a user-defined number of terms.Logic: Uses a while loop to iteratively add the two preceding numbers ($n_1 + n_2$) to create the next number in the series. It includes error handling to ensure the user enters a positive integer.
 
